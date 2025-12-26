@@ -5,14 +5,28 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"> 
 <url> 
-  <loc>https://mistercaz-france.fr/</loc> 
-  <lastmod>2025-10-20T17:07:42+00:00</lastmod> 
+  <loc>https://dudespinn.de/</loc> 
+  <lastmod>2025-12-26T17:07:42+00:00</lastmod> 
+  <priority>0.8</priority> 
+</url> 
+
+<url> 
+  <loc>https://dudespinn.de/casino/</loc> 
+  <lastmod>2025-12-26T17:07:42+00:00</lastmod> 
   <priority>0.8</priority> 
 </url> 
  
+
+ <url> 
+  <loc>https://dudespinn.de/app/</loc> 
+  <lastmod>2025-12-26T17:07:42+00:00</lastmod> 
+  <priority>0.8</priority> 
+</url> 
+ 
+ 
 <url> 
-  <loc>https://mistercaz-france.fr/fr-fr/</loc> 
-  <lastmod>2025-10-20T17:07:42+00:00</lastmod> 
+  <loc>https://dudespinn.de/de-de/</loc> 
+  <lastmod>2025-12-26T17:07:42+00:00</lastmod> 
   <priority>1.0</priority> 
 </url> 
  
